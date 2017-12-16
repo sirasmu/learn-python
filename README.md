@@ -14,8 +14,8 @@ I will be using WSL for Python.
 
 2. Write the following program: 
 
-  print("hello world :)")
+        print("hello world :)")
   
 3. Now you can run the program from the terminal with:
 
-  python3 test.py
+  `python3 test.py`
