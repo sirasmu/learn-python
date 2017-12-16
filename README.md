@@ -1,6 +1,6 @@
 # learn-python
 
-I will be using WSL Ubunto for this.
+I will be using WSL Ubuntu for this.
 
 ## Install Python
 
